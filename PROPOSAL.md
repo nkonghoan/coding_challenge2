@@ -8,7 +8,7 @@ Based on the given description, it seems that you need to deploy the solutions f
 
 ### Step 3: Set up the AWS Server
 
-- Use the provided .pem file to connect to your AWS server. I can use an SSH client like PuTTY or the terminal on my Windows laptop to establish the SSH connection.
+- Use the provided .pem file to connect to the AWS server provided. I can use an SSH client like PuTTY or the terminal on my Windows laptop to establish the SSH connection.
 
 ### Step 4: Choose a Web Server Software
 
