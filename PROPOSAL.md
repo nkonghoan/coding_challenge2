@@ -1,7 +1,5 @@
 For this next challenge i think i will divide the steps i will take in solving thise issue into sub-steps
 
-Based on the given description, it seems that you need to deploy the solutions from your previous coding challenge as a website on an AWS server. Here's a suggested plan to approach this exercise:
-
 ### Step 1: Create a new GitHub Repository:
 
 ### Step 2: Create the Excel Spreadsheet:
