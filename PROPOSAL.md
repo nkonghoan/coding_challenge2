@@ -33,4 +33,4 @@ For this next challenge i think i will divide the steps i will take in solving t
 
 - Open a web browser on my laptop and enter the IP address of the AWS server.
 
-Totally i think if i am focused on the task i can pull it off in about 2 days provided i would have to learn some skills in order to complete this challenge.
+Totally i think if i am focused on the task i can pull it off in about a week provided i would have to learn some new skills in order to complete this challenge.
